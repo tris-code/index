@@ -1,7 +1,7 @@
 # Tris Universe
 
 ### Current progress
-You can track the state of things [here](https://github.com/tris-foundation/universe/projects/1).
+You can track the state of things [here](https://github.com/orgs/tris-foundation/projects/1).
 
 ### Requirements
 
