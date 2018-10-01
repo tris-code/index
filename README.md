@@ -5,7 +5,8 @@ You can track the state of things [here](https://github.com/orgs/tris-foundation
 
 ### Requirements
 
-Everything should work with our [docker image](https://github.com/tris-foundation/docker).
+At the moment all the modules should work with Xcode 10 / Swift 4.2.<br>
+You can also use our [docker image](https://github.com/tris-foundation/docker).<br>
 
 ## What do we have
 
