@@ -12,7 +12,7 @@ You can also use our [docker image](https://github.com/tris-foundation/docker).<
 
 ### Concurrency
 
-* [Async](https://github.com/tris-foundation/asyn) - simple abstraction to switch between Fiber / Tarantool
+* [Async](https://github.com/tris-foundation/async) - simple abstraction to switch between Fiber / Tarantool
 * [Fiber](https://github.com/tris-foundation/fiber) - cooperative multitasking with non-blocking asynchronous io written in Swift
 
 We can't wait for Swift's async/await, but when it comes the API won't change much.
