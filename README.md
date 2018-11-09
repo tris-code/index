@@ -55,6 +55,7 @@ A pure Swift solution will be available after TLS module is ready.<br>
 
 ### Formats
 
+* [Hex](https://github.com/tris-foundation/hex) - optimized String <-> RawBuffer coding
 * [JSON](https://github.com/tris-foundation/json) - streaming json encoder/decoder
 * [MessagePack](https://github.com/tris-foundation/messagepack) - streaming messagepack reader/writer + encoder/decoder
 * [XML](https://github.com/tris-foundation/xml) - streaming xml encoder/decoder
