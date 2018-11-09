@@ -10,6 +10,11 @@ You can also use our [docker image](https://github.com/tris-foundation/docker).<
 
 ## What do we have
 
+### Quick start
+
+* [Starters](https://github.com/tris-foundation/starters) - easy way to start new project
+* [Examples](https://github.com/tris-foundation/examples) - basic examples for our modules
+
 ### Concurrency
 
 * [Async](https://github.com/tris-foundation/async) - simple abstraction to switch between Fiber / Tarantool
