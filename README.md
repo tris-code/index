@@ -30,7 +30,7 @@ We can't wait for Swift's async/await, but when it comes the API won't change mu
 ### Cryptography
 
 * [Crypto](https://github.com/tris-foundation/crypto) - digest, encryption, asn.1, uuid
-* [TLS](https://github.com/tris-foundation/tls) - work in progress
+* [TLS](https://github.com/tris-foundation/tls) - TLS 1.2, 1.3
 
 ### Frontend
 
@@ -49,7 +49,7 @@ A pure Swift solution will be available after TLS module is ready.<br>
 
 ### Database
 
-* [Storage](https://github.com/tris-foundation/storage) - work in progress
+* [Storage](https://github.com/tris-foundation/storage) - multipurpose data storage
 * [Tarantool](https://github.com/tris-foundation/tarantool) with [swift stored procedures](https://github.com/tris-foundation/tarantool#tarantool-module) support ([example](https://github.com/tris-foundation/examples/tree/master/tarantool))<br>
 
 ### Formats
