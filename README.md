@@ -43,7 +43,6 @@ Please take a look at [Stencil](https://stenciljs.com) and [Polymer](https://www
 
 * [Web](https://github.com/tris-foundation/web) - MVC, Controllers, DependencyInjector ([example](https://github.com/tris-foundation/examples/tree/master/web))
 * [HTTP](https://github.com/tris-foundation/http) - high performance coders, server + client ([example](https://github.com/tris-foundation/examples/tree/master/http))
-* [Node](https://github.com/tris-foundation/node) - embed node.js for server-side rendering ([example](https://github.com/tris-foundation/examples/tree/master/web))
 * Nginx - load balancing, tls proxy and static files ([example](https://github.com/tris-foundation/examples/tree/master/nginx-spa))
 
 A pure Swift solution will be available after TLS module is ready.<br>
@@ -60,6 +59,11 @@ A pure Swift solution will be available after TLS module is ready.<br>
 * [MessagePack](https://github.com/tris-foundation/messagepack) - streaming messagepack reader/writer + encoder/decoder
 * [XML](https://github.com/tris-foundation/xml) - streaming xml encoder/decoder
 * [XML-RPC](https://github.com/tris-foundation/xml-rpc) - request / response codable models
+
+### JavaScript
+
+* [JavaScript](https://github.com/tris-foundation/javascript) - embed JavaScript in your Swift application (V8, ChakraCore, JavaScriptCore)
+* [Node](https://github.com/tris-foundation/node) - embed node.js for server-side rendering ([example](https://github.com/tris-foundation/examples/tree/master/web))
 
 ### Other
 
