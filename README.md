@@ -65,6 +65,11 @@ A pure Swift solution will be available after TLS module is ready.<br>
 * [JavaScript](https://github.com/tris-foundation/javascript) - embed JavaScript in your Swift application (V8, ChakraCore, JavaScriptCore)
 * [Node](https://github.com/tris-foundation/node) - embed node.js for server-side rendering ([example](https://github.com/tris-foundation/examples/tree/master/web))
 
+### Audio
+
+* [Audio](https://github.com/tris-foundation/audio) - low-level audio abstraction
+* [Music](https://github.com/tris-foundation/music) - notes, pitch detection
+
 ### Other
 
 * [Process](https://github.com/tris-foundation/process) - fiber-friendly process abstraction
