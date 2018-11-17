@@ -24,8 +24,8 @@ We can't wait for Swift's async/await, but when it comes the API won't change mu
 
 ### IO
 
-* [AIO](https://github.com/tris-foundation/aio) - asynchronous io with syncronous api
-* [Stream](https://github.com/tris-foundation/stream) - io abstrations + basic streams, buffered stream, reader/writer
+* [AIO](https://github.com/tris-foundation/aio) - asynchronous io with synchronous api
+* [Stream](https://github.com/tris-foundation/stream) - io abstractions + basic streams, buffered stream, reader/writer
 
 ### Cryptography
 
