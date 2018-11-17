@@ -34,10 +34,7 @@ We can't wait for Swift's async/await, but when it comes the API won't change mu
 
 ### Frontend
 
-> "Standards aren't add-ons to the web. They are the web" - Apple
-
-It's time to use [Web Components](https://webcomponents.org).
-Please take a look at [Stencil](https://stenciljs.com) and [Polymer](https://www.polymer-project.org).
+* [View](https://github.com/tris-foundation/view) - component cross-platform view engine
 
 ### Backend
 
