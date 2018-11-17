@@ -67,6 +67,7 @@ A pure Swift solution will be available after TLS module is ready.<br>
 
 ### Other
 
+* [Process](https://github.com/tris-foundation/process) - fiber-friendly process abstraction
 * [Time](https://github.com/tris-foundation/time) - high precision time, duration, interval
 * [Test](https://github.com/tris-foundation/test) - convenience shims
 
