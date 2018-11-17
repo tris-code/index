@@ -49,7 +49,7 @@ A pure Swift solution will be available after TLS module is ready.<br>
 * [Storage](https://github.com/tris-foundation/storage) - multipurpose data storage
 * [Tarantool](https://github.com/tris-foundation/tarantool) with [swift stored procedures](https://github.com/tris-foundation/tarantool#tarantool-module) support ([example](https://github.com/tris-foundation/examples/tree/master/tarantool))<br>
 
-### Formats
+### Format
 
 * [Hex](https://github.com/tris-foundation/hex) - optimized String <-> RawBuffer coding
 * [JSON](https://github.com/tris-foundation/json) - streaming json encoder/decoder
@@ -60,18 +60,35 @@ A pure Swift solution will be available after TLS module is ready.<br>
 ### JavaScript
 
 * [JavaScript](https://github.com/tris-foundation/javascript) - embed JavaScript in your Swift application (V8, ChakraCore, JavaScriptCore)
-* [Node](https://github.com/tris-foundation/node) - embed node.js for server-side rendering ([example](https://github.com/tris-foundation/examples/tree/master/web))
+* [Node](https://github.com/tris-foundation/node) - embed node.js in your Swift application
+* [SSR](https://github.com/tris-foundation/ssr) - server-side rendering with node.js ([example](https://github.com/tris-foundation/examples/tree/master/server-side-rendering))
 
 ### Audio
 
 * [Audio](https://github.com/tris-foundation/audio) - low-level audio abstraction
 * [Music](https://github.com/tris-foundation/music) - notes, pitch detection
 
+### Tests
+
+* [Test](https://github.com/tris-foundation/test) - convenience shims for everyday use
+* [CI](https://github.com/tris-foundation/continuous-integration) - simple ci server written in Swift
+
 ### Other
 
+* [Platform](https://github.com/tris-foundation/platform) - libc abstraction
+* [Codable](https://github.com/tris-foundation/codable) - codable helpers
+* [Compression](https://github.com/tris-foundation/compression) - gzip, deflate
+* [Reflection](https://github.com/tris-foundation/reflection) - construct any value type
+* [LinkedList](https://github.com/tris-foundation/linked-list) - unsafe but superfast linked list
 * [Process](https://github.com/tris-foundation/process) - fiber-friendly process abstraction
 * [Time](https://github.com/tris-foundation/time) - high precision time, duration, interval
-* [Test](https://github.com/tris-foundation/test) - convenience shims
+* [Log](https://github.com/tris-foundation/log) - general log system
+
+### Third-party
+
+* [GitHub](https://github.com/tris-foundation/github) - github api client
+* [OpenSubtitles](https://github.com/tris-foundation/opensubtitles) - opensubtitles api client
+* [SuperMemo](https://github.com/tris-foundation/supermemo) - supermemo2 algorithm
 
 ### Contribute
 
