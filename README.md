@@ -1,15 +1,3 @@
-# Tris Universe
-
-### Current progress
-You can track the state of things [here](https://github.com/orgs/tris-code/projects/1).
-
-### Requirements
-
-At the moment all the modules should work with Xcode 10 / Swift 4.2.<br>
-You can also use our [docker image](https://github.com/tris-code/docker).<br>
-
-## What do we have
-
 ### Quick start
 
 * [Starters](https://github.com/tris-code/starters) - easy way to start new project
